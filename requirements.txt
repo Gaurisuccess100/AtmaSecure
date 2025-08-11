@@ -1,11 +1,14 @@
-python==3.10
 streamlit
 opencv-python
-mediapipe
+mediapipe==0.10.14
 deepface
+streamlit-geolocation
 twilio
-geocoder
-pywhatkit
+pyttsx3
+pandas
+matplotlib
+
+
 
 
 
