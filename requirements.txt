@@ -3,7 +3,5 @@ opencv-python
 mediapipe
 deepface
 twilio
-pyttsx3
 geocoder
 pywhatkit
-pywin32
