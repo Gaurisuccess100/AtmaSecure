@@ -5,3 +5,5 @@ deepface
 twilio
 geocoder
 pywhatkit
+python==3.10
+
