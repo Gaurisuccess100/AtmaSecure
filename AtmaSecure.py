@@ -16,14 +16,14 @@ PHOTO_DIR = "alert_photos"
 if not os.path.exists(PHOTO_DIR):
     os.makedirs(PHOTO_DIR)
 contacts = [
-    "whatsapp:+918958034551",
-    "whatsapp:+917351271327"
+    "whatsapp:+91xxxxxxx",
+    "whatsapp:+91xxxxxxxxx"
     # Add your WhatsApp contacts
     # Add more WhatsApp contacts as needed
 ]
 TWILIO_WHATSAPP_FROM = "whatsapp:+14155238886"
-TWILIO_SID = "AC080cd6c224d08105623d421fcdb396c9"
-TWILIO_TOKEN = "3033b9ff25b70e3e9fd1e2d47984f9d4"
+TWILIO_SID = "xxxxxxxxxxxxxxxx"
+TWILIO_TOKEN = "xxxxxxxxxxxxxxxxxxxxx"
 WOMEN_HELPLINE_NUMBER = "1091"  # Indian Women Helpline Example
 
 # --- Hand Detection ---
@@ -194,4 +194,5 @@ st.markdown("""
 6. Customize your message above.
 7. View detection history and analytics below.
 ---
+
 """)
