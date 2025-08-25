@@ -1,12 +1,14 @@
 streamlit
-opencv-python
+opencv-python-headless==4.10.0.84
 mediapipe==0.10.14
-deepface
+deepface==0.0.93
 streamlit-geolocation
 twilio
-pyttsx3
+gTTS
 pandas
 matplotlib
+
+
 
 
 
